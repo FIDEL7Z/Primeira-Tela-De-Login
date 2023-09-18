@@ -5,4 +5,10 @@ Eu criei uma página de login HTML e a personalizei com CSS para torná-la atrae
 </div>
 
 Para melhorar a aparência da página, adicionei um fundo de imagem, que também tem um efeito de desfoque. Usei animações CSS para fazer as cores do plano de fundo girarem suavemente. Estabeleci um esquema de cores predominante em branco e adicionei estilos aos campos de entrada, incluindo rótulos flutuantes e ícones
+
+
 Além disso, criei estilos para o botão de login, links e outros elementos da página. Também fiz a página responsiva usando uma media query para ajustar a aparência em dispositivos móveis.
+
+<div align="center">
+<img src="https://github.com/FIDEL7Z/Primeira-Tela-De-Login/assets/103468557/5a8cc361-d72f-4074-aa41-9b6ec7dce89f" width="320"/>
+</div>
